@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Kulkarni</h1>
 <h3 align="center">A passionate full Stack developer,learner,CP Enthusiast from Pune</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarvesh123305" alt="sarvesh123305" /></a> </p>
 
 - 🌱 I’m currently learning **React native,Advanced Data structures and a lot more**
 
