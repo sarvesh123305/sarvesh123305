@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Kulkarni</h1>
-<h3 align="center">A passionate full Stack developer,learner,CP Enthusiast from Pune</h3>
+<h3 align="center">A passionate full Stack developer,learner,CP Enthusiast and a linux user from Pune</h3>
 
 
-- 🌱 I’m currently learning **React native,Advanced Data structures and a lot more**
+- 🌱 I’m currently learning **React,Advanced Data structures and a lot more**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sarvesh123305](https://github.com/sarvesh123305)
 
