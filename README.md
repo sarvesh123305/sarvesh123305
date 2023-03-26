@@ -6,10 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sarvesh123305](https://github.com/sarvesh123305)
 
-- 📫 How to reach me **sarvesh123305@gmail.com**
 
-<!-- <h3 align="left">Connect with me:</h3> -->
-<!-- <p align="left">
+
 <a href="https://codepen.io/sarvesh123305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sarvesh123305" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kulkarni-sarvesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kulkarni-sarvesh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sarvesh123305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarvesh123305" height="30" width="40" /></a>
